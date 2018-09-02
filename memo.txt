@@ -1,1 +1,3 @@
 Aide mémoire de commandes bash
+ls : liste des fichiers et dossiers
+mkdir <nom_du_dossier> : crée le dossier <nom_du_dossier>
