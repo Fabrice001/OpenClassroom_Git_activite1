@@ -1,3 +1,7 @@
-Aide mémoire de commandes bash
+﻿Aide mémoire de commandes bash
+  
 ls : liste des fichiers et dossiers
-mkdir <nom_du_dossier> : crée le dossier <nom_du_dossier>
+
+  mkdir <nom_du_dossier> : crée le dossier <nom_du_dossier>
+
+  rm -r <nom_du_dossier_a_supprimer> : suppression du dossier <nom_du_dossier_a_supprimer>
